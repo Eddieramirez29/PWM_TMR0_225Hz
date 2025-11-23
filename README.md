@@ -1,4 +1,4 @@
-# PWM Generator – 225 Hz (PIC Microcontroller)
+# PWM Generator – 225 Hz (PIC16F886 Microcontroller)
 
 This project implements a software-based PWM signal at **225 Hz** using **Timer0**, **ADC**, and internal oscillator settings of a PIC microcontroller (XC8). The PWM duty cycle is controlled by an analog input read through the onboard ADC.
 
